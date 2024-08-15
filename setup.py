@@ -7,7 +7,7 @@ packages = ["ngff_writer"]
 package_data = {"": ["*"]}
 
 install_requires = [
-    "dask~=2021.6",
+    "dask>=2.11.0",
     "dask_image~=0.6",
     "numpy~=1.21",
     "scikit-image~=0.18",
