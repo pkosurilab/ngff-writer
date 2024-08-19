@@ -8,10 +8,10 @@ package_data = {"": ["*"]}
 
 install_requires = [
     "dask>=2.11.0",
-    "dask_image~=0.6",
-    "numpy~=1.21",
-    "scikit-image~=0.18",
-    "zarr~=2.8",
+    "dask_image",
+    "numpy",
+    "scikit-image",
+    "zarr",
 ]
 
 extras_require = {"test": ["pytest~=6.2"]}
