@@ -1,5 +1,7 @@
 # NGFF Writer
 
+_This is forked from https://github.com/aeisenbarth/ngff-writer. We updated the version requirements for python package dependencies._
+
 This is a higher-level wrapper around the Zarr library for creating and reading 
 [NGFF OME-Zarr](https://ngff.openmicroscopy.org/0.3/#ome-ngff) datasets for TCZYX image data.
 
